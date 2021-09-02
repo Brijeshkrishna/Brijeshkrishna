@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### I'm brijesh [website] 👋👋
+######### I'm brijesh [website] 👋👋
 
-# info
+# Info
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
