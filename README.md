@@ -24,12 +24,12 @@
 
 
 <br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 
 <img align="left" alt="brijeshkrishna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brijeshkrishna&theme=nightowl&show_icons=true&count_private=true&hide=prs" />
 
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkrishna)](https://github.com/brijesh)
 
