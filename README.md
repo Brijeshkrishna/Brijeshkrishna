@@ -1,4 +1,4 @@
-### Hi there 👋, I'm brijesh [website]
+### Hi there 👋, I'm Brijesh Krishna [website]
 
 # Info
 
