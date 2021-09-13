@@ -37,7 +37,7 @@
 <br/><br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkrishna)](https://github.com/brijesh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkrishna)](https://github.com/brijeshkrishna)
 
 [website]: https://brijeshkrishna.github.io/home
 [python]: https://python.org
