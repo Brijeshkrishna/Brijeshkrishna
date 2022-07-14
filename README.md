@@ -38,7 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkrishna)](https://github.com/brijeshkrishna)
 
-[site]: https://brijeshkrishna.up.railway.app/
+[site]: https://brijeshkrishna.ml/
 [python]: https://python.org
 [vs]: https://vscode.com
 [none]: https://brijeshkrishna.github.io/home
