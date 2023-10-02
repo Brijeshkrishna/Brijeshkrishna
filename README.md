@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning <br> 👯 I’m looking to collaborate<br> 🥅 Goals: Contribute more to Open Source projects<br> ⚡ Fun fact: I love to play games and coding<br> 😘 favorite language: Python , C , Rust<br>
+🌱 I’m currently learning Python , C , Rust <br> 👯 I’m looking to collaborate<br> 🥅 Goals: Contribute more to Open Source projects<br> ⚡ Fun fact: I love to play games and coding<br> 😘 favorite language: Python , C , Rust<br>
 
 
 # 💻 Tech Stack:
