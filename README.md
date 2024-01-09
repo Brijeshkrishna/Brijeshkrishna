@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=brijeshkrishna&limit=10&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brijeshkrishna&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrijeshkrishna%2FBrijeshkrishna&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
